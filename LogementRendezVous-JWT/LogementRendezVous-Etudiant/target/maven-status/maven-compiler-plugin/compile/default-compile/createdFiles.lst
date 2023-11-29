@@ -1,0 +1,11 @@
+filtres\AuthenticationFilter.class
+ressources\AuthenticationEndPoint.class
+entities\Logement.class
+ressources\RendezVousRessources.class
+metiers\RendezVousBusiness.class
+ressources\LogementRessources.class
+filtres\Secured.class
+metiers\LogementBusiness.class
+utilities\RestActivator.class
+entities\Credentials.class
+entities\RendezVous.class
